@@ -27,3 +27,6 @@ Turn Around Time: Time Difference between completion time and arrival time.
 
 Waiting Time: Time Difference between turn around time and burst time.
 >Waiting Time = Turn Around Time – Burst Time
+
+# References
+>https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_CPU_Scheduling.html
