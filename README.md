@@ -14,7 +14,7 @@ This repository contains the following CPU Scheduling algorithms written in Pyth
 and 
 >deadlockDetection
 
-# Description of time wrt to a process:
+## Description of time wrt to a process:
 
 Arrival Time: Time at which the process arrives in the ready queue.
 
@@ -28,5 +28,5 @@ Turn Around Time: Time Difference between completion time and arrival time.
 Waiting Time: Time Difference between turn around time and burst time.
 >Waiting Time = Turn Around Time – Burst Time
 
-# References
+## References
 >https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/5_CPU_Scheduling.html
