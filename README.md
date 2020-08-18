@@ -10,9 +10,7 @@ This repository contains the following CPU Scheduling algorithms written in Pyth
 | PriorityNP | Priority Based Scheduling (Non Pre-emptive) |
 | PriorityP | Priority Based Scheduling (Pre-emptive) |
 | RR | Round Robin |
-
-and 
->deadlockDetection
+| deadlockDetection | Deadlock Detection |
 
 ## Description of time with respect to a process:
 * **Arrival Time:** Time at which the process arrives in the ready queue.
